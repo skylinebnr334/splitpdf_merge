@@ -1,4 +1,6 @@
 # splitpdf_merge
+## Description
+4分割されているpdfファイルをページごとに統合します
 ## WARNING
 Only Machintosh Support
 ## Requires
